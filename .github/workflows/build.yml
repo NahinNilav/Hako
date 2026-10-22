@@ -1,0 +1,22 @@
+name: Build and test
+on:
+  push:
+  pull_request:
+jobs:
+  dotnet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      - run: dotnet build src/WarehouseLite.Web/WarehouseLite.Web.csproj --configuration Release
+      - run: dotnet test tests/WarehouseLite.Tests/WarehouseLite.Tests.csproj --configuration Release
+  frontend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test tests/frontend/*.test.mjs

@@ -1,0 +1,1376 @@
+{
+  "products": [
+    {
+      "sku": "SKU-1001",
+      "name": "Archive storage box",
+      "category": "Packaging",
+      "unitPriceCents": 125000,
+      "reorderLevel": 32
+    },
+    {
+      "sku": "SKU-1002",
+      "name": "Kraft shipping mailer",
+      "category": "Packaging",
+      "unitPriceCents": 18000,
+      "reorderLevel": 140
+    },
+    {
+      "sku": "SKU-1003",
+      "name": "Bubble wrap roll",
+      "category": "Packaging",
+      "unitPriceCents": 390000,
+      "reorderLevel": 22
+    },
+    {
+      "sku": "SKU-1004",
+      "name": "Corrugated carton S",
+      "category": "Packaging",
+      "unitPriceCents": 23000,
+      "reorderLevel": 110
+    },
+    {
+      "sku": "SKU-1005",
+      "name": "Corrugated carton L",
+      "category": "Packaging",
+      "unitPriceCents": 49000,
+      "reorderLevel": 80
+    },
+    {
+      "sku": "SKU-1006",
+      "name": "Thermal shipping label",
+      "category": "Packaging",
+      "unitPriceCents": 78000,
+      "reorderLevel": 65
+    },
+    {
+      "sku": "SKU-1007",
+      "name": "Pallet stretch film",
+      "category": "Packaging",
+      "unitPriceCents": 265000,
+      "reorderLevel": 28
+    },
+    {
+      "sku": "SKU-1008",
+      "name": "Safety seal tape",
+      "category": "Packaging",
+      "unitPriceCents": 42500,
+      "reorderLevel": 85
+    },
+    {
+      "sku": "SKU-2001",
+      "name": "Industrial nitrile gloves",
+      "category": "Safety",
+      "unitPriceCents": 190000,
+      "reorderLevel": 45
+    },
+    {
+      "sku": "SKU-2002",
+      "name": "Protective eyewear",
+      "category": "Safety",
+      "unitPriceCents": 220000,
+      "reorderLevel": 24
+    },
+    {
+      "sku": "SKU-2003",
+      "name": "Reflective safety vest",
+      "category": "Safety",
+      "unitPriceCents": 275000,
+      "reorderLevel": 30
+    },
+    {
+      "sku": "SKU-2004",
+      "name": "Workplace first aid kit",
+      "category": "Safety",
+      "unitPriceCents": 780000,
+      "reorderLevel": 8
+    },
+    {
+      "sku": "SKU-2005",
+      "name": "Grip work gloves",
+      "category": "Safety",
+      "unitPriceCents": 99000,
+      "reorderLevel": 50
+    },
+    {
+      "sku": "SKU-2006",
+      "name": "Warehouse floor marker",
+      "category": "Safety",
+      "unitPriceCents": 149000,
+      "reorderLevel": 36
+    },
+    {
+      "sku": "SKU-3001",
+      "name": "Hand scanner cradle",
+      "category": "Equipment",
+      "unitPriceCents": 1290000,
+      "reorderLevel": 9
+    },
+    {
+      "sku": "SKU-3002",
+      "name": "RFID label pack",
+      "category": "Equipment",
+      "unitPriceCents": 645000,
+      "reorderLevel": 12
+    },
+    {
+      "sku": "SKU-3003",
+      "name": "Mobile printer ribbon",
+      "category": "Equipment",
+      "unitPriceCents": 385000,
+      "reorderLevel": 18
+    },
+    {
+      "sku": "SKU-3004",
+      "name": "Rack location tag",
+      "category": "Equipment",
+      "unitPriceCents": 45000,
+      "reorderLevel": 60
+    },
+    {
+      "sku": "SKU-3005",
+      "name": "Pallet jack wheel kit",
+      "category": "Equipment",
+      "unitPriceCents": 1450000,
+      "reorderLevel": 5
+    },
+    {
+      "sku": "SKU-3006",
+      "name": "Barcode reader stand",
+      "category": "Equipment",
+      "unitPriceCents": 875000,
+      "reorderLevel": 12
+    },
+    {
+      "sku": "SKU-4001",
+      "name": "Ceramic mug set",
+      "category": "Home goods",
+      "unitPriceCents": 380000,
+      "reorderLevel": 24
+    },
+    {
+      "sku": "SKU-4002",
+      "name": "Glass storage jar",
+      "category": "Home goods",
+      "unitPriceCents": 125000,
+      "reorderLevel": 42
+    },
+    {
+      "sku": "SKU-4003",
+      "name": "Cotton bath towel",
+      "category": "Home goods",
+      "unitPriceCents": 235000,
+      "reorderLevel": 45
+    },
+    {
+      "sku": "SKU-4004",
+      "name": "Stainless bottle 500ml",
+      "category": "Home goods",
+      "unitPriceCents": 298000,
+      "reorderLevel": 34
+    },
+    {
+      "sku": "SKU-4005",
+      "name": "Kitchen linen bundle",
+      "category": "Home goods",
+      "unitPriceCents": 155000,
+      "reorderLevel": 28
+    },
+    {
+      "sku": "SKU-4006",
+      "name": "Bamboo drawer tray",
+      "category": "Home goods",
+      "unitPriceCents": 210000,
+      "reorderLevel": 25
+    },
+    {
+      "sku": "SKU-4007",
+      "name": "Foldable desk organizer",
+      "category": "Home goods",
+      "unitPriceCents": 178000,
+      "reorderLevel": 36
+    },
+    {
+      "sku": "SKU-4008",
+      "name": "Reusable shopping tote",
+      "category": "Home goods",
+      "unitPriceCents": 89000,
+      "reorderLevel": 68
+    },
+    {
+      "sku": "SKU-5001",
+      "name": "Desk notebook A5",
+      "category": "Stationery",
+      "unitPriceCents": 65000,
+      "reorderLevel": 85
+    },
+    {
+      "sku": "SKU-5002",
+      "name": "Archival pen set",
+      "category": "Stationery",
+      "unitPriceCents": 125000,
+      "reorderLevel": 40
+    },
+    {
+      "sku": "SKU-5003",
+      "name": "Document folder",
+      "category": "Stationery",
+      "unitPriceCents": 23000,
+      "reorderLevel": 160
+    },
+    {
+      "sku": "SKU-5004",
+      "name": "Receipt paper roll",
+      "category": "Stationery",
+      "unitPriceCents": 52000,
+      "reorderLevel": 90
+    },
+    {
+      "sku": "SKU-5005",
+      "name": "Shipping manifest pad",
+      "category": "Stationery",
+      "unitPriceCents": 38000,
+      "reorderLevel": 125
+    },
+    {
+      "sku": "SKU-5006",
+      "name": "Permanent marker 12pc",
+      "category": "Stationery",
+      "unitPriceCents": 169000,
+      "reorderLevel": 35
+    },
+    {
+      "sku": "SKU-6001",
+      "name": "Green tea 24 pack",
+      "category": "Food & beverage",
+      "unitPriceCents": 468000,
+      "reorderLevel": 30
+    },
+    {
+      "sku": "SKU-6002",
+      "name": "Roasted coffee beans 1kg",
+      "category": "Food & beverage",
+      "unitPriceCents": 325000,
+      "reorderLevel": 24
+    },
+    {
+      "sku": "SKU-6003",
+      "name": "Rice crackers case",
+      "category": "Food & beverage",
+      "unitPriceCents": 195000,
+      "reorderLevel": 38
+    },
+    {
+      "sku": "SKU-6004",
+      "name": "Mineral water 12 pack",
+      "category": "Food & beverage",
+      "unitPriceCents": 165000,
+      "reorderLevel": 65
+    },
+    {
+      "sku": "SKU-6005",
+      "name": "Instant miso soup box",
+      "category": "Food & beverage",
+      "unitPriceCents": 248000,
+      "reorderLevel": 26
+    },
+    {
+      "sku": "SKU-6006",
+      "name": "Oat biscuit assortment",
+      "category": "Food & beverage",
+      "unitPriceCents": 278000,
+      "reorderLevel": 29
+    },
+    {
+      "sku": "SKU-7001",
+      "name": "Microfiber cleaning cloth",
+      "category": "Maintenance",
+      "unitPriceCents": 95000,
+      "reorderLevel": 50
+    },
+    {
+      "sku": "SKU-7002",
+      "name": "Heavy duty mop head",
+      "category": "Maintenance",
+      "unitPriceCents": 215000,
+      "reorderLevel": 25
+    },
+    {
+      "sku": "SKU-7003",
+      "name": "Surface cleaner refill",
+      "category": "Maintenance",
+      "unitPriceCents": 160000,
+      "reorderLevel": 35
+    },
+    {
+      "sku": "SKU-7004",
+      "name": "Utility trash bag roll",
+      "category": "Maintenance",
+      "unitPriceCents": 125000,
+      "reorderLevel": 46
+    },
+    {
+      "sku": "SKU-7005",
+      "name": "Disposable wipe case",
+      "category": "Maintenance",
+      "unitPriceCents": 185000,
+      "reorderLevel": 55
+    },
+    {
+      "sku": "SKU-7006",
+      "name": "Shelf edge protector",
+      "category": "Maintenance",
+      "unitPriceCents": 89000,
+      "reorderLevel": 30
+    }
+  ],
+  "locations": [
+    {
+      "code": "A-01",
+      "zone": "A",
+      "description": "Zone A \u00b7 Bay 01",
+      "capacityUnits": 1800
+    },
+    {
+      "code": "A-02",
+      "zone": "A",
+      "description": "Zone A \u00b7 Bay 02",
+      "capacityUnits": 1800
+    },
+    {
+      "code": "B-01",
+      "zone": "B",
+      "description": "Zone B \u00b7 Bay 01",
+      "capacityUnits": 1800
+    },
+    {
+      "code": "B-02",
+      "zone": "B",
+      "description": "Zone B \u00b7 Bay 02",
+      "capacityUnits": 1800
+    },
+    {
+      "code": "C-01",
+      "zone": "C",
+      "description": "Zone C \u00b7 Bay 01",
+      "capacityUnits": 1800
+    },
+    {
+      "code": "C-02",
+      "zone": "C",
+      "description": "Zone C \u00b7 Bay 02",
+      "capacityUnits": 1800
+    },
+    {
+      "code": "D-01",
+      "zone": "D",
+      "description": "Zone D \u00b7 Bay 01",
+      "capacityUnits": 1800
+    },
+    {
+      "code": "D-02",
+      "zone": "D",
+      "description": "Zone D \u00b7 Bay 02",
+      "capacityUnits": 1800
+    }
+  ],
+  "movements": [
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-1001",
+      "quantity": 69,
+      "to": "B-01",
+      "reference": "PO-2601",
+      "note": "Opening stock",
+      "timestamp": "2026-09-07T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-1002",
+      "quantity": 90,
+      "to": "C-02",
+      "reference": "PO-2602",
+      "note": "Opening stock",
+      "timestamp": "2026-09-08T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-1003",
+      "quantity": 83,
+      "to": "A-01",
+      "reference": "PO-2603",
+      "note": "Opening stock",
+      "timestamp": "2026-09-09T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-1004",
+      "quantity": 9,
+      "to": "B-02",
+      "reference": "PO-2604",
+      "note": "Opening stock",
+      "timestamp": "2026-09-10T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-1005",
+      "quantity": 37,
+      "to": "D-01",
+      "reference": "PO-2605",
+      "note": "Opening stock",
+      "timestamp": "2026-09-11T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-1006",
+      "quantity": 84,
+      "to": "A-02",
+      "reference": "PO-2606",
+      "note": "Opening stock",
+      "timestamp": "2026-09-12T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-1007",
+      "quantity": 69,
+      "to": "C-01",
+      "reference": "PO-2607",
+      "note": "Opening stock",
+      "timestamp": "2026-09-13T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-1008",
+      "quantity": 66,
+      "to": "D-02",
+      "reference": "PO-2608",
+      "note": "Opening stock",
+      "timestamp": "2026-09-14T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-2001",
+      "quantity": 75,
+      "to": "B-01",
+      "reference": "PO-2609",
+      "note": "Opening stock",
+      "timestamp": "2026-09-15T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-2002",
+      "quantity": 31,
+      "to": "C-02",
+      "reference": "PO-2610",
+      "note": "Opening stock",
+      "timestamp": "2026-09-16T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-2003",
+      "quantity": 119,
+      "to": "A-01",
+      "reference": "PO-2611",
+      "note": "Opening stock",
+      "timestamp": "2026-09-17T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-2005",
+      "quantity": 17,
+      "to": "D-01",
+      "reference": "PO-2613",
+      "note": "Opening stock",
+      "timestamp": "2026-09-19T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-2006",
+      "quantity": 86,
+      "to": "A-02",
+      "reference": "PO-2614",
+      "note": "Opening stock",
+      "timestamp": "2026-09-20T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-3001",
+      "quantity": 92,
+      "to": "C-01",
+      "reference": "PO-2615",
+      "note": "Opening stock",
+      "timestamp": "2026-09-21T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-3002",
+      "quantity": 129,
+      "to": "D-02",
+      "reference": "PO-2616",
+      "note": "Opening stock",
+      "timestamp": "2026-09-22T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-3004",
+      "quantity": 96,
+      "to": "C-02",
+      "reference": "PO-2618",
+      "note": "Opening stock",
+      "timestamp": "2026-09-07T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-3005",
+      "quantity": 18,
+      "to": "A-01",
+      "reference": "PO-2619",
+      "note": "Opening stock",
+      "timestamp": "2026-09-08T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-3006",
+      "quantity": 48,
+      "to": "B-02",
+      "reference": "PO-2620",
+      "note": "Opening stock",
+      "timestamp": "2026-09-09T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-4001",
+      "quantity": 45,
+      "to": "D-01",
+      "reference": "PO-2621",
+      "note": "Opening stock",
+      "timestamp": "2026-09-10T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-4002",
+      "quantity": 12,
+      "to": "A-02",
+      "reference": "PO-2622",
+      "note": "Opening stock",
+      "timestamp": "2026-09-11T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-4003",
+      "quantity": 39,
+      "to": "C-01",
+      "reference": "PO-2623",
+      "note": "Opening stock",
+      "timestamp": "2026-09-12T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-4004",
+      "quantity": 50,
+      "to": "D-02",
+      "reference": "PO-2624",
+      "note": "Opening stock",
+      "timestamp": "2026-09-13T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-4005",
+      "quantity": 50,
+      "to": "B-01",
+      "reference": "PO-2625",
+      "note": "Opening stock",
+      "timestamp": "2026-09-14T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-4006",
+      "quantity": 115,
+      "to": "C-02",
+      "reference": "PO-2626",
+      "note": "Opening stock",
+      "timestamp": "2026-09-15T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-4007",
+      "quantity": 118,
+      "to": "A-01",
+      "reference": "PO-2627",
+      "note": "Opening stock",
+      "timestamp": "2026-09-16T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-4008",
+      "quantity": 57,
+      "to": "B-02",
+      "reference": "PO-2628",
+      "note": "Opening stock",
+      "timestamp": "2026-09-17T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-5001",
+      "quantity": 137,
+      "to": "D-01",
+      "reference": "PO-2629",
+      "note": "Opening stock",
+      "timestamp": "2026-09-18T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-5002",
+      "quantity": 9,
+      "to": "A-02",
+      "reference": "PO-2630",
+      "note": "Opening stock",
+      "timestamp": "2026-09-19T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-5003",
+      "quantity": 30,
+      "to": "C-01",
+      "reference": "PO-2631",
+      "note": "Opening stock",
+      "timestamp": "2026-09-20T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-5004",
+      "quantity": 105,
+      "to": "D-02",
+      "reference": "PO-2632",
+      "note": "Opening stock",
+      "timestamp": "2026-09-21T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-5005",
+      "quantity": 135,
+      "to": "B-01",
+      "reference": "PO-2633",
+      "note": "Opening stock",
+      "timestamp": "2026-09-22T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-5006",
+      "quantity": 40,
+      "to": "C-02",
+      "reference": "PO-2634",
+      "note": "Opening stock",
+      "timestamp": "2026-09-23T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-6001",
+      "quantity": 16,
+      "to": "A-01",
+      "reference": "PO-2635",
+      "note": "Opening stock",
+      "timestamp": "2026-09-07T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-6002",
+      "quantity": 47,
+      "to": "B-02",
+      "reference": "PO-2636",
+      "note": "Opening stock",
+      "timestamp": "2026-09-08T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-6003",
+      "quantity": 141,
+      "to": "D-01",
+      "reference": "PO-2637",
+      "note": "Opening stock",
+      "timestamp": "2026-09-09T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-6004",
+      "quantity": 130,
+      "to": "A-02",
+      "reference": "PO-2638",
+      "note": "Opening stock",
+      "timestamp": "2026-09-10T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-6005",
+      "quantity": 8,
+      "to": "C-01",
+      "reference": "PO-2639",
+      "note": "Opening stock",
+      "timestamp": "2026-09-11T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-6006",
+      "quantity": 80,
+      "to": "D-02",
+      "reference": "PO-2640",
+      "note": "Opening stock",
+      "timestamp": "2026-09-12T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-7001",
+      "quantity": 97,
+      "to": "B-01",
+      "reference": "PO-2641",
+      "note": "Opening stock",
+      "timestamp": "2026-09-13T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-7002",
+      "quantity": 47,
+      "to": "C-02",
+      "reference": "PO-2642",
+      "note": "Opening stock",
+      "timestamp": "2026-09-14T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-7003",
+      "quantity": 13,
+      "to": "A-01",
+      "reference": "PO-2643",
+      "note": "Opening stock",
+      "timestamp": "2026-09-15T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-7004",
+      "quantity": 82,
+      "to": "B-02",
+      "reference": "PO-2644",
+      "note": "Opening stock",
+      "timestamp": "2026-09-16T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-7005",
+      "quantity": 46,
+      "to": "D-01",
+      "reference": "PO-2645",
+      "note": "Opening stock",
+      "timestamp": "2026-09-17T14:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-7006",
+      "quantity": 63,
+      "to": "A-02",
+      "reference": "PO-2646",
+      "note": "Opening stock",
+      "timestamp": "2026-09-18T14:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-1005",
+      "quantity": 3,
+      "fromLocation": "D-01",
+      "to": "B-01",
+      "reference": "TR-2010",
+      "note": "Bin balancing",
+      "timestamp": "2026-09-27T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-1005",
+      "quantity": 1,
+      "fromLocation": "B-01",
+      "reference": "SO-3501",
+      "note": "Customer order",
+      "timestamp": "2026-09-27T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-4001",
+      "quantity": 6,
+      "fromLocation": "D-01",
+      "reference": "SO-3502",
+      "note": "Customer order",
+      "timestamp": "2026-09-28T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-4004",
+      "quantity": 3,
+      "fromLocation": "D-02",
+      "reference": "SO-3503",
+      "note": "Customer order",
+      "timestamp": "2026-09-28T08:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-4007",
+      "quantity": 5,
+      "fromLocation": "A-01",
+      "to": "A-02",
+      "reference": "TR-2014",
+      "note": "Bin balancing",
+      "timestamp": "2026-09-28T16:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-7004",
+      "quantity": 10,
+      "to": "B-02",
+      "reference": "PO-2805",
+      "note": "Restock shipment",
+      "timestamp": "2026-09-29T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-4002",
+      "quantity": 6,
+      "fromLocation": "A-02",
+      "reference": "SO-3506",
+      "note": "Customer order",
+      "timestamp": "2026-09-29T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-6004",
+      "quantity": 3,
+      "fromLocation": "A-02",
+      "reference": "SO-3507",
+      "note": "Customer order",
+      "timestamp": "2026-09-29T16:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-1002",
+      "quantity": 9,
+      "fromLocation": "C-02",
+      "to": "A-01",
+      "reference": "TR-2018",
+      "note": "Bin balancing",
+      "timestamp": "2026-09-30T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-1005",
+      "quantity": 1,
+      "fromLocation": "B-01",
+      "reference": "SO-3509",
+      "note": "Customer order",
+      "timestamp": "2026-09-30T08:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-6004",
+      "quantity": 10,
+      "to": "A-02",
+      "reference": "PO-2810",
+      "note": "Restock shipment",
+      "timestamp": "2026-09-30T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-3005",
+      "quantity": 12,
+      "fromLocation": "A-01",
+      "reference": "SO-3511",
+      "note": "Customer order",
+      "timestamp": "2026-10-01T00:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-2005",
+      "quantity": 11,
+      "fromLocation": "D-01",
+      "to": "C-01",
+      "reference": "TR-2022",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-01T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-2001",
+      "quantity": 1,
+      "fromLocation": "B-01",
+      "reference": "SO-3513",
+      "note": "Customer order",
+      "timestamp": "2026-10-01T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-3006",
+      "quantity": 11,
+      "fromLocation": "B-02",
+      "reference": "SO-3514",
+      "note": "Customer order",
+      "timestamp": "2026-10-02T00:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-5006",
+      "quantity": 20,
+      "to": "C-02",
+      "reference": "PO-2815",
+      "note": "Restock shipment",
+      "timestamp": "2026-10-02T08:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-1007",
+      "quantity": 12,
+      "fromLocation": "C-01",
+      "to": "B-01",
+      "reference": "TR-2026",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-02T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-4005",
+      "quantity": 9,
+      "fromLocation": "B-01",
+      "reference": "SO-3517",
+      "note": "Customer order",
+      "timestamp": "2026-10-03T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-7005",
+      "quantity": 11,
+      "fromLocation": "D-01",
+      "reference": "SO-3519",
+      "note": "Customer order",
+      "timestamp": "2026-10-03T16:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-1001",
+      "quantity": 11,
+      "fromLocation": "B-01",
+      "to": "C-01",
+      "reference": "TR-2030",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-04T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-1001",
+      "quantity": 7,
+      "fromLocation": "C-01",
+      "reference": "SO-3521",
+      "note": "Customer order",
+      "timestamp": "2026-10-04T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-1006",
+      "quantity": 2,
+      "fromLocation": "A-02",
+      "reference": "SO-3522",
+      "note": "Customer order",
+      "timestamp": "2026-10-04T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-7005",
+      "quantity": 9,
+      "fromLocation": "D-01",
+      "reference": "SO-3523",
+      "note": "Customer order",
+      "timestamp": "2026-10-05T00:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-7001",
+      "quantity": 7,
+      "fromLocation": "B-01",
+      "to": "A-01",
+      "reference": "TR-2034",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-05T08:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-7005",
+      "quantity": 19,
+      "to": "D-01",
+      "reference": "PO-2825",
+      "note": "Restock shipment",
+      "timestamp": "2026-10-05T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-7004",
+      "quantity": 13,
+      "fromLocation": "B-02",
+      "reference": "SO-3526",
+      "note": "Customer order",
+      "timestamp": "2026-10-06T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-1008",
+      "quantity": 4,
+      "fromLocation": "D-02",
+      "reference": "SO-3527",
+      "note": "Customer order",
+      "timestamp": "2026-10-06T08:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-7006",
+      "quantity": 11,
+      "fromLocation": "A-02",
+      "to": "A-01",
+      "reference": "TR-2038",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-06T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-2001",
+      "quantity": 12,
+      "fromLocation": "B-01",
+      "reference": "SO-3529",
+      "note": "Customer order",
+      "timestamp": "2026-10-07T00:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-5006",
+      "quantity": 11,
+      "to": "C-02",
+      "reference": "PO-2830",
+      "note": "Restock shipment",
+      "timestamp": "2026-10-07T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-7006",
+      "quantity": 8,
+      "fromLocation": "A-01",
+      "reference": "SO-3531",
+      "note": "Customer order",
+      "timestamp": "2026-10-07T16:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-4005",
+      "quantity": 14,
+      "fromLocation": "B-01",
+      "to": "C-02",
+      "reference": "TR-2042",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-08T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-4007",
+      "quantity": 4,
+      "fromLocation": "A-02",
+      "reference": "SO-3533",
+      "note": "Customer order",
+      "timestamp": "2026-10-08T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-1002",
+      "quantity": 12,
+      "fromLocation": "C-02",
+      "reference": "SO-3534",
+      "note": "Customer order",
+      "timestamp": "2026-10-08T16:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-3006",
+      "quantity": 10,
+      "to": "B-02",
+      "reference": "PO-2835",
+      "note": "Restock shipment",
+      "timestamp": "2026-10-09T00:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-6003",
+      "quantity": 10,
+      "fromLocation": "D-01",
+      "to": "B-02",
+      "reference": "TR-2046",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-09T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-3005",
+      "quantity": 2,
+      "fromLocation": "A-01",
+      "reference": "SO-3537",
+      "note": "Customer order",
+      "timestamp": "2026-10-09T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-7001",
+      "quantity": 10,
+      "fromLocation": "B-01",
+      "reference": "SO-3538",
+      "note": "Customer order",
+      "timestamp": "2026-10-10T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-7006",
+      "quantity": 7,
+      "fromLocation": "A-02",
+      "reference": "SO-3539",
+      "note": "Customer order",
+      "timestamp": "2026-10-10T08:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-2003",
+      "quantity": 14,
+      "fromLocation": "A-01",
+      "to": "D-02",
+      "reference": "TR-2050",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-10T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-4007",
+      "quantity": 4,
+      "fromLocation": "A-01",
+      "reference": "SO-3541",
+      "note": "Customer order",
+      "timestamp": "2026-10-11T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-5004",
+      "quantity": 3,
+      "fromLocation": "D-02",
+      "reference": "SO-3542",
+      "note": "Customer order",
+      "timestamp": "2026-10-11T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-7005",
+      "quantity": 1,
+      "fromLocation": "D-01",
+      "reference": "SO-3543",
+      "note": "Customer order",
+      "timestamp": "2026-10-11T16:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-4006",
+      "quantity": 14,
+      "fromLocation": "C-02",
+      "to": "A-01",
+      "reference": "TR-2054",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-12T00:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-4001",
+      "quantity": 16,
+      "to": "D-01",
+      "reference": "PO-2845",
+      "note": "Restock shipment",
+      "timestamp": "2026-10-12T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-4002",
+      "quantity": 5,
+      "fromLocation": "A-02",
+      "reference": "SO-3546",
+      "note": "Customer order",
+      "timestamp": "2026-10-12T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-6004",
+      "quantity": 5,
+      "fromLocation": "A-02",
+      "reference": "SO-3547",
+      "note": "Customer order",
+      "timestamp": "2026-10-13T00:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-7001",
+      "quantity": 6,
+      "fromLocation": "A-01",
+      "to": "C-02",
+      "reference": "TR-2058",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-13T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-5001",
+      "quantity": 6,
+      "fromLocation": "D-01",
+      "reference": "SO-3549",
+      "note": "Customer order",
+      "timestamp": "2026-10-13T16:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-3004",
+      "quantity": 13,
+      "to": "C-02",
+      "reference": "PO-2850",
+      "note": "Restock shipment",
+      "timestamp": "2026-10-14T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-6001",
+      "quantity": 5,
+      "fromLocation": "A-01",
+      "reference": "SO-3551",
+      "note": "Customer order",
+      "timestamp": "2026-10-14T08:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-7003",
+      "quantity": 3,
+      "fromLocation": "A-01",
+      "to": "A-02",
+      "reference": "TR-2062",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-14T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-3001",
+      "quantity": 7,
+      "fromLocation": "C-01",
+      "reference": "SO-3553",
+      "note": "Customer order",
+      "timestamp": "2026-10-15T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-5002",
+      "quantity": 6,
+      "fromLocation": "A-02",
+      "reference": "SO-3554",
+      "note": "Customer order",
+      "timestamp": "2026-10-15T08:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-4005",
+      "quantity": 15,
+      "to": "C-02",
+      "reference": "PO-2855",
+      "note": "Restock shipment",
+      "timestamp": "2026-10-15T16:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-1004",
+      "quantity": 3,
+      "fromLocation": "B-02",
+      "to": "D-01",
+      "reference": "TR-2066",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-16T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-3004",
+      "quantity": 2,
+      "fromLocation": "C-02",
+      "reference": "SO-3557",
+      "note": "Customer order",
+      "timestamp": "2026-10-16T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-1007",
+      "quantity": 6,
+      "fromLocation": "B-01",
+      "reference": "SO-3558",
+      "note": "Customer order",
+      "timestamp": "2026-10-16T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-5003",
+      "quantity": 9,
+      "fromLocation": "C-01",
+      "reference": "SO-3559",
+      "note": "Customer order",
+      "timestamp": "2026-10-17T00:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-5004",
+      "quantity": 13,
+      "fromLocation": "D-02",
+      "to": "B-01",
+      "reference": "TR-2070",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-17T08:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-4001",
+      "quantity": 9,
+      "fromLocation": "D-01",
+      "reference": "SO-3561",
+      "note": "Customer order",
+      "timestamp": "2026-10-17T16:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-6006",
+      "quantity": 11,
+      "fromLocation": "D-02",
+      "reference": "SO-3562",
+      "note": "Customer order",
+      "timestamp": "2026-10-18T00:00:00Z"
+    },
+    {
+      "type": "DISPATCH",
+      "sku": "SKU-4007",
+      "quantity": 3,
+      "fromLocation": "A-01",
+      "reference": "SO-3563",
+      "note": "Customer order",
+      "timestamp": "2026-10-18T08:00:00Z"
+    },
+    {
+      "type": "TRANSFER",
+      "sku": "SKU-7004",
+      "quantity": 9,
+      "fromLocation": "B-02",
+      "to": "B-01",
+      "reference": "TR-2074",
+      "note": "Bin balancing",
+      "timestamp": "2026-10-18T16:00:00Z"
+    },
+    {
+      "type": "RECEIVE",
+      "sku": "SKU-1002",
+      "quantity": 13,
+      "to": "A-01",
+      "reference": "PO-2865",
+      "note": "Restock shipment",
+      "timestamp": "2026-10-19T00:00:00Z"
+    }
+  ]
+}
