@@ -2,7 +2,9 @@
 
 Hako manages warehouse inventory, receiving, dispatching and transfers between storage locations. It tracks stock levels and movement history and exports inventory and movement records as CSV files.
 
-[Watch the recording](docs/hako-demo.mp4)
+## Demo
+
+[![Hako warehouse recording](docs/hako-demo.gif)](docs/hako-demo.mp4)
 
 ## Key features
 
